@@ -1,6 +1,6 @@
 # RPA-Automatic-Process-Business
 
-## 1. Login on any appcation
+## 1. Login on any application
 ## 2. connect to System APIs
 ## 3. Copy and Past Data
 ## 4. Move file to Folder
